@@ -1,0 +1,8 @@
+"Latitude (decimal degrees):	55.824"			
+"Longitude (decimal degrees):	-2.469"			
+"Elevation (m):	203"			
+"Radiation database:	PVGIS-SARAH2"			
+			
+			
+Slope: 90 deg. 			
+Azimuth: 0 deg. 			
