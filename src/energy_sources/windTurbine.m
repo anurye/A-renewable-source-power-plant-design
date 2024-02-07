@@ -1,6 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Based on class excersice
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 classdef windTurbine
     % windTurbine: Wind turbine class for creating wind turbine instances.
     %   It requires the provision of five parameters for instantiating 
