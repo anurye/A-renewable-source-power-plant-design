@@ -1,6 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Based on class excersice
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 classdef PV
     % PV: Photovoltaic (PV) module class for creating PV module instances.
     %   It requires the provision of four parameters for instantiating 
