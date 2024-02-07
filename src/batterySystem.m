@@ -1,7 +1,3 @@
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Based on class excersice
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
 classdef batterySystem
     % batterySystem - A class for creating battery instances.
     %
