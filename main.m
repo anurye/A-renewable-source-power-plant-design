@@ -2,9 +2,6 @@
 % RESPowerPlantAnalysis.m: Renewable Energy Source Power Plant Desing
 % Analysis
 %
-% Authors: Ahmed Nurye and Taye Tsehaye
-% Date: Jan 02, 2024.
-%
 % Description:
 %   This script presents the design of a renewable energy sources power
 %   plant design combining PV panels, wind turbines, and a 
